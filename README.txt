@@ -1,4 +1,4 @@
-This is a p5.js creative coding project that replaces all nouns and adjectives in the text with random nouns and adjectives. 
+This is a p5.js and RiTa.js creative coding project that replaces all nouns and adjectives in the text with random nouns and adjectives. 
 If there is rhyme scheme in the poem, it will be chaneged to match the new words. 
 
 The poem we are using is Frost's "Stopping by Woods on a Snowy Evening" (1922)
