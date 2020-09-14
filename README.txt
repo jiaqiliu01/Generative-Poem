@@ -1,5 +1,3 @@
-Generative Poem
-
 This is a p5.js creative coding project that replaces all nouns and adjectives in the text with random nouns and adjectives. 
 If there is rhyme scheme in the poem, it will be chaneged to match the new words. 
 
